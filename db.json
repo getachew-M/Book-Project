@@ -1,0 +1,900 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1505,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "pLN7BxMTg7IC",
+      "etag": "LiB1CWoGDFg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pLN7BxMTg7IC",
+      "volumeInfo": {
+        "title": "APIs: A Strategy Guide",
+        "authors": [
+          "Daniel Jacobson",
+          "Greg Brail",
+          "Dan Woods"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2012",
+        "description": "\"Creating channels with application programming interfaces\"--Cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449308926"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449308929"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 149,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pLN7BxMTg7IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pLN7BxMTg7IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=pLN7BxMTg7IC&printsec=frontcover&dq=api&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=pLN7BxMTg7IC&dq=api&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/APIs_A_Strategy_Guide.html?hl=&id=pLN7BxMTg7IC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pLN7BxMTg7IC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Creating channels with application programming interfaces&quot;--Cover."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dg1rDwAAQBAJ",
+      "etag": "FmhkjtpTLc0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dg1rDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Designing Web APIs",
+        "subtitle": "Building APIs That Developers Love",
+        "authors": [
+          "Brenda Jin",
+          "Saurabh Sahni",
+          "Amir Shevat"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2018-08-29",
+        "description": "Using a web API to provide services to application developers is one of the more satisfying endeavors that software engineers undertake. But building a popular API with a thriving developer ecosystem is also one of the most challenging. With this practical guide, developers, architects, and tech leads will learn how to navigate complex decisions for designing, scaling, marketing, and evolving interoperable APIs. Authors Brenda Jin, Saurabh Sahni, and Amir Shevat explain API design theory and provide hands-on exercises for building your web API and managing its operation in production. You’ll also learn how to build and maintain a following of app developers. This book includes expert advice, worksheets, checklists, and case studies from companies including Slack, Stripe, Facebook, Microsoft, Cloudinary, Oracle, and GitHub. Get an overview of request-response and event-driven API design paradigms Learn best practices for designing an API that meets the needs of your users Use a template to create an API design process Scale your web API to support a growing number of API calls and use cases Regularly adapt the API to reflect changes to your product or business Provide developer resources that include API documentation, samples, and tools",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781492026877"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1492026875"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dg1rDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dg1rDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=Dg1rDwAAQBAJ&printsec=frontcover&dq=api&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Dg1rDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Dg1rDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 39.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 39.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Dg1rDwAAQBAJ&rdid=book-Dg1rDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 39990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 39990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dg1rDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book includes expert advice, worksheets, checklists, and case studies from companies including Slack, Stripe, Facebook, Microsoft, Cloudinary, Oracle, and GitHub."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WNk0rdib_5YC",
+      "etag": "56HOfRa9fpE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WNk0rdib_5YC",
+      "volumeInfo": {
+        "title": "Business of APIs",
+        "authors": [
+          "Kin Lane"
+        ],
+        "publisher": "Original Web Solutions",
+        "publishedDate": "2011-04-28",
+        "description": "In recent years, API adoption has exploded among developers, for reasons that this book will examine. But the purpose of this book is not to discuss how to deliver an API but to rather how to scale the business side to meet this rising developer demand. Written by someone with an engineering and a business background, The Business of APIs also aims to bridge the technical and the business aspects of API development.This book serves to help people understand what APIs are, who uses them, and the different types of APIs that are available. As the title suggests, this is a business-oriented book. Nonetheless it does seek to educate users about what types of technologies go into popular Web APIs. The book also surveys the history of modern Web APIs and examines how they've been used successfully.If you are considering launching an API, this book should help you understand the common stumbling blocks that have been faced by many API owners -- then hopefully you can avoid them. The book will also identify common building blocks used by API owners, building blocks that should be fundamental for your API planning and development.The Business of APIs highlights what it takes to be successful in providing quality Web APIs and points to some of the innovative steps new businesses are taking with their APIs -- all in an effort to build vibrant API ecosystems and healthy businesses.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781461113881"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1461113881"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 53,
+        "printType": "BOOK",
+        "categories": [
+          "Application program interfaces (Computer software)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WNk0rdib_5YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WNk0rdib_5YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=WNk0rdib_5YC&printsec=frontcover&dq=api&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=WNk0rdib_5YC&dq=api&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Business_of_APIs.html?hl=&id=WNk0rdib_5YC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Business_of_APIs-sample-epub.acsm?id=WNk0rdib_5YC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Business_of_APIs-sample-pdf.acsm?id=WNk0rdib_5YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WNk0rdib_5YC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In recent years, API adoption has exploded among developers, for reasons that this book will examine."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0OikDwAAQBAJ",
+      "etag": "ag/NzVfHDDE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0OikDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Enterprise API Management",
+        "subtitle": "Design and deliver valuable business APIs",
+        "authors": [
+          "Luis Weir"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2019-07-23",
+        "description": "A strategy and implementation guide for building, deploying, and managing APIs Key FeaturesComprehensive, end-to-end guide to business-driven enterprise APIsDistills years of experience with API and microservice strategiesProvides detailed guidance on implementing API-led architectures in any businessBook Description APIs are the cornerstone of modern, agile enterprise systems. They enable access to enterprise services from a wide variety of devices, act as a platform for innovation, and open completely new revenue streams. Enterprise API Management shows how to define the right architecture, implement the right patterns, and define the right organization model for business-driven APIs. Drawing on his experience of developing API and microservice strategies for some of the world's largest companies, Luis Weir explains how APIs deliver value across an enterprise. The book explores the architectural decisions, implementation patterns, and management practices for successful enterprise APIs, as well as providing clear, actionable advice on choosing and executing the right API strategy in your enterprise. With a relentless focus on creating business value, Luis Weir reveals an effective method for planning, building, and running business products and services with APIs. What you will learnCreate API strategies to deliver business valueMonetize APIs, promoting them through public marketplaces and directoriesDevelop API-led architectures, applying best practice architecture patternsChoose between REST, GraphQL, and gRPC-style API architecturesManage APIs and microservices through the complete life cycleDeploy APIs and business products, as well as Target Operating ModelsLead product-based organizations to embrace DevOps and focus on delivering business capabilitiesWho this book is for Architects, developers, and technology executives who want to deliver successful API strategies that bring business value.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787285613"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1787285618"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 294,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.9.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0OikDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0OikDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0OikDwAAQBAJ&printsec=frontcover&dq=api&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0OikDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0OikDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 38.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 31.19,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0OikDwAAQBAJ&rdid=book-0OikDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 38990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 31190000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0OikDwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What you will learnCreate API strategies to deliver business valueMonetize APIs, promoting them through public marketplaces and directoriesDevelop API-led architectures, applying best practice architecture patternsChoose between REST, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7TczEAAAQBAJ",
+      "etag": "c1f+6E26QGI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7TczEAAAQBAJ",
+      "volumeInfo": {
+        "title": "API Security in Action",
+        "authors": [
+          "Neil Madden"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2020-11-20",
+        "description": "\"A comprehensive guide to designing and implementing secure services. A must-read book for all API practitioners who manage security.\" - Gilberto Taccari, Penta API Security in Action teaches you how to create secure APIs for any situation. By following this hands-on guide you’ll build a social network API while mastering techniques for flexible multi-user security, cloud key management, and lightweight cryptography. A web API is an efficient way to communicate with an application or service. However, this convenience opens your systems to new security risks. API Security in Action gives you the skills to build strong, safe APIs you can confidently expose to the world. Inside, you’ll learn to construct secure and scalable REST APIs, deliver machine-to-machine interaction in a microservices architecture, and provide protection in resource-constrained IoT (Internet of Things) environments. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the technology APIs control data sharing in every service, server, data store, and web client. Modern data-centric designs—including microservices and cloud-native applications—demand a comprehensive, multi-layered approach to security for both private and public-facing APIs. About the book API Security in Action teaches you how to create secure APIs for any situation. By following this hands-on guide you’ll build a social network API while mastering techniques for flexible multi-user security, cloud key management, and lightweight cryptography. When you’re done, you’ll be able to create APIs that stand up to complex threat models and hostile environments. What's inside Authentication Authorization Audit logging Rate limiting Encryption About the reader For developers with experience building RESTful APIs. Examples are in Java. About the author Neil Madden has in-depth knowledge of applied cryptography, application security, and current API security technologies. He holds a Ph.D. in Computer Science. Table of Contents PART 1 - FOUNDATIONS 1 What is API security? 2 Secure API development 3 Securing the Natter API PART 2 - TOKEN-BASED AUTHENTICATION 4 Session cookie authentication 5 Modern token-based authentication 6 Self-contained tokens and JWTs PART 3 - AUTHORIZATION 7 OAuth2 and OpenID Connect 8 Identity-based access control 9 Capability-based security and macaroons PART 4 - MICROSERVICE APIs IN KUBERNETES 10 Microservice APIs in Kubernetes 11 Securing service-to-service APIs PART 5 - APIs FOR THE INTERNET OF THINGS 12 Securing IoT communications 13 Securing IoT APIs",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781638356646"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1638356645"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 574,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7TczEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7TczEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7TczEAAAQBAJ&printsec=frontcover&dq=api&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7TczEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7TczEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 50.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 50.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7TczEAAAQBAJ&rdid=book-7TczEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 50990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 50990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/API_Security_in_Action-sample-epub.acsm?id=7TczEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7TczEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "About the book API Security in Action teaches you how to create secure APIs for any situation."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IY29LylT85wC",
+      "etag": "9IDnvdU0wrk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IY29LylT85wC",
+      "volumeInfo": {
+        "title": "API Design for C++",
+        "authors": [
+          "Martin Reddy"
+        ],
+        "publisher": "Elsevier",
+        "publishedDate": "2011-03-14",
+        "description": "API Design for C++ provides a comprehensive discussion of Application Programming Interface (API) development, from initial design through implementation, testing, documentation, release, versioning, maintenance, and deprecation. It is the only book that teaches the strategies of C++ API development, including interface design, versioning, scripting, and plug-in extensibility. Drawing from the author's experience on large scale, collaborative software projects, the text offers practical techniques of API design that produce robust code for the long term. It presents patterns and practices that provide real value to individual developers as well as organizations. API Design for C++ explores often overlooked issues, both technical and non-technical, contributing to successful design decisions that product high quality, robust, and long-lived APIs. It focuses on various API styles and patterns that will allow you to produce elegant and durable libraries. A discussion on testing strategies concentrates on automated API testing techniques rather than attempting to include end-user application testing techniques such as GUI testing, system testing, or manual testing. Each concept is illustrated with extensive C++ code examples, and fully functional examples and working source code for experimentation are available online. This book will be helpful to new programmers who understand the fundamentals of C++ and who want to advance their design skills, as well as to senior engineers and software architects seeking to gain new expertise to complement their existing talents. Three specific groups of readers are targeted: practicing software engineers and architects, technical managers, and students and educators. The only book that teaches the strategies of C++ API development, including design, versioning, documentation, testing, scripting, and extensibility. Extensive code examples illustrate each concept, with fully functional examples and working source code for experimentation available online. Covers various API styles and patterns with a focus on practical and efficient designs for large-scale long-term projects.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0123850045"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780123850041"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 472,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.11.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IY29LylT85wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IY29LylT85wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=IY29LylT85wC&printsec=frontcover&dq=api&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IY29LylT85wC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IY29LylT85wC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE_AND_RENTAL",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 59.95,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 47.36,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IY29LylT85wC&rdid=book-IY29LylT85wC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 59950000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 47360000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          },
+          {
+            "finskyOfferType": 3,
+            "listPrice": {
+              "amountInMicros": 23980000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 22060000,
+              "currencyCode": "USD"
+            },
+            "rentalDuration": {
+              "unit": "DAY",
+              "count": 90
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/API_Design_for_C++-sample-epub.acsm?id=IY29LylT85wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/API_Design_for_C++-sample-pdf.acsm?id=IY29LylT85wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IY29LylT85wC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book will be helpful to new programmers who understand the fundamentals of C++ and who want to advance their design skills, as well as to senior engineers and software architects seeking to gain new expertise to complement their ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dTkzEAAAQBAJ",
+      "etag": "88pd2Jy4anI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dTkzEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Irresistible APIs",
+        "subtitle": "Designing web APIs that developers will love",
+        "authors": [
+          "Kirsten Hunter"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2016-09-16",
+        "description": "Summary A Web API is a platform with a web-style interface developers can use to implement functionality. Well-designed APIs feel like a natural extension of the application, rather than just a new interface into the backend database. Designing Web APIs based on use cases allows an organization to develop irresistible APIs, which developers can consume easily and which support the business values of that organization. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the Technology It takes a village to deliver an irresistible web API. Business stakeholders look for an API that works side-by-side with the main product to enhance the experience for customers. Project managers require easy integration with other products or ways for customers to interact with your system. And, developers need APIs to consistently interoperate with external systems. The trick is getting the whole village together. This book shows you how. About the Book Irresistible APIspresents a process to create APIs that succeed for all members of the team. In it, you'll learn how to capture an application's core business value and extend it with an API that will delight the developers who use it. Thinking about APIs from the business point of view, while also considering the end-user experience, encourages you to explore both sides of the design process and learn some successful biz-to-dev communication patterns. Along the way, you'll start to view your APIs as part of your product's core value instead of just an add-on. What's Inside Design-driven development Developing meaningful use cases API guiding principles How to recognize successful APIs About the Reader Written for all members of an API design team, regardless of technical level. About the Author Kirsten Hunter is an API evangelist who helps developers and business stakeholders understand, design, and deliver amazing APIs. Table of Contents UNDERSTANDING WEB APIs What makes an API irresistible? Working with web APIs API First Web services explained DESIGNING WEB APIs Guiding principles for API design Defining the value for your API Creating your schema model Design-driven development Empowering your developers",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781638353447"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1638353441"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 367,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dTkzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dTkzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dTkzEAAAQBAJ&printsec=frontcover&dq=api&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dTkzEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dTkzEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 34.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 34.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dTkzEAAAQBAJ&rdid=book-dTkzEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 34990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 34990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Irresistible_APIs-sample-epub.acsm?id=dTkzEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dTkzEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The trick is getting the whole village together. This book shows you how. About the Book Irresistible APIspresents a process to create APIs that succeed for all members of the team."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w3y7EAAAQBAJ",
+      "etag": "ScprJHZERVg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w3y7EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Building Web APIs with ASP.NET Core",
+        "authors": [
+          "Valerio Sanctis"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2023-05-23",
+        "description": "Create fully featured APIs with the ASP.NET Core framework! This practical guide shows you how to design and implement APIs using the REST and GraphQL standards. Building Web APIs with ASP.NET Core is a practical beginner’s guide to creating your first web APIs using ASP.NET Core. In it, you’ll develop an API that feeds web-based services, including websites and mobile apps, for a board games application. Structured just like a real-world development project, each chapter introduces a new feature request. You’ll build your API with an ecosystem of ASP.NET Core tools that help simplify everything from setting up your data model to generating documentation. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781633439481"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1633439488"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 470,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w3y7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w3y7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=w3y7EAAAQBAJ&printsec=frontcover&dq=api&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=w3y7EAAAQBAJ&dq=api&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Building_Web_APIs_with_ASP_NET_Core.html?hl=&id=w3y7EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w3y7EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is reliable, fast, free, open-source, and backed by Microsoft’s legendary support. About the Book Building Web APIs with ASP.NET Core teaches you how to write safe, maintainable, and performant REST APIs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gHpPEAAAQBAJ",
+      "etag": "qRj8bIenC/Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gHpPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Hacking APIs",
+        "subtitle": "Breaking Web Application Programming Interfaces",
+        "authors": [
+          "Corey J. Ball"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2022-07-12",
+        "description": "Hacking APIs is a crash course in web API security testing that will prepare you to penetration-test APIs, reap high rewards on bug bounty programs, and make your own APIs more secure. Hacking APIs is a crash course on web API security testing that will prepare you to penetration-test APIs, reap high rewards on bug bounty programs, and make your own APIs more secure. You’ll learn how REST and GraphQL APIs work in the wild and set up a streamlined API testing lab with Burp Suite and Postman. Then you’ll master tools useful for reconnaissance, endpoint analysis, and fuzzing, such as Kiterunner and OWASP Amass. Next, you’ll learn to perform common attacks, like those targeting an API’s authentication mechanisms and the injection vulnerabilities commonly found in web applications. You’ll also learn techniques for bypassing protections against these attacks. In the book’s nine guided labs, which target intentionally vulnerable APIs, you’ll practice: Enumerating APIs users and endpoints using fuzzing techniques Using Postman to discover an excessive data exposure vulnerability Performing a JSON Web Token attack against an API authentication process Combining multiple API attack techniques to perform a NoSQL injection Attacking a GraphQL API to uncover a broken object level authorization vulnerability By the end of the book, you’ll be prepared to uncover those high-payout API bugs other hackers aren’t finding and improve the security of applications on the web.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781718502444"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1718502443"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 362,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gHpPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gHpPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=gHpPEAAAQBAJ&printsec=frontcover&dq=api&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=gHpPEAAAQBAJ&dq=api&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hacking_APIs.html?hl=&id=gHpPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gHpPEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In the book’s nine guided labs, which target intentionally vulnerable APIs, you’ll practice: Enumerating APIs users and endpoints using fuzzing techniques Using Postman to discover an excessive data exposure vulnerability Performing a ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iE8-EAAAQBAJ",
+      "etag": "l+XCFGDipYE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iE8-EAAAQBAJ",
+      "volumeInfo": {
+        "title": "API FUNDAMENTALS: AN EASY HANDS ON WORKBOOK FOR BEGINNERS",
+        "subtitle": "For Product Managers & Everyone Else",
+        "authors": [
+          "Pallavi Agarwal"
+        ],
+        "publisher": "Pallavi Agarwal",
+        "publishedDate": "2021-08-18",
+        "description": "Explore the world of APIs, learn in simple language and experiment with hands-on activities Key Features Learn the basics of API, importance in today's world and how do they work Gain an in-depth understanding through hands-on examples of how APIs send and receive responses Know when and how to use APIs for your product or web apps Book Description APIs are in the hands of every user who has a smart phone to say the least. If you want to understand what APIs really mean, how do they work and to put your knowledge of APIs to work quickly, this hands-on workbook will help you get started. The book provides a practical approach with real life examples to learning the basics, important terminologies, implementation and associated methodologies related to APIs. Complete with step-by-step explanations of essential concepts, practical examples, and live activities, this book begins by taking you through the basics of API. This workbook will help you learn how to understand and use APIs to create well-designed, documented, and tested products. By the end of this book, you'll be able to converse comfortably about APIs, identify the basic components and when an API is being used in any App on your smart phone. You'll also be able to make product decisions based on your understanding of Pros and Cons of different types of APIs and their usability. What you will learn Basics of APIs Find out what is involved in API working Business case discussion on when or when not to use an API Real-life examples to experiment with APIs Understand what an API looks like Who this book is for The book is for everyone who wants to learn the basics of APIs. It targets Product Managers looking to understand the basics of APIs and improve product viability with API integrations. You will find this book useful even if you don't know what API stands for and want to build your skills from scratch. The book assumes zero knowledge of APIs. Table of Contents What is an API, in “English Please”? What is an API? I am ready for some actual understanding now. Request Response Cycle Types of APIs Web service APIs Common HTTP Methods (REST) Response Codes API Documentation Work with an API (LIVE Example) Other API Terminologies API Testing & Monitoring Bonus References Phew, I know enough - what to do with this info?",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iE8-EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iE8-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=iE8-EAAAQBAJ&dq=api&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iE8-EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iE8-EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amount": 5.99,
+          "currencyCode": "USD"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=iE8-EAAAQBAJ&rdid=book-iE8-EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "retailPrice": {
+              "amountInMicros": 5990000,
+              "currencyCode": "USD"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iE8-EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "You will find this book useful even if you don&#39;t know what API stands for and want to build your skills from scratch. The book assumes zero knowledge of APIs. Table of Contents What is an API, in “English Please”? What is an API?"
+      }
+    },
+    {
+      "id": "f9de"
+    },
+    {
+      "id": "3b09"
+    }
+  ]
+}
